@@ -6,7 +6,7 @@
 
 nav {
     height: 100px;
-    background-color: rgb(194, 255, 252);
+    background-color: white;
     display: flex;
 }
 
@@ -17,12 +17,17 @@ img {
 }
 
 .section1 {
-    margin: 30px;
-    padding: 20px;
+    margin: 0px;
+    padding: 10px 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: 'Poppins', sans-serif;
+    background-color: white;
+}
+
+.section3 {
+    padding-left: 50px;
 }
 
 .main-div {
@@ -70,6 +75,8 @@ footer {
     display: flex;
     flex-direction: column;
     margin: 15px;
+    color: white;
+    background-color:rgb(23, 3, 43)
 }
 
 .adress {
