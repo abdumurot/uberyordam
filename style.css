@@ -74,6 +74,7 @@ h2 {
 footer {
     display: flex;
     flex-direction: column;
+    width: 100%;
     margin: 15px;
     color: white;
     background-color:rgb(23, 3, 43)
